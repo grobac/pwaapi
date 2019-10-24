@@ -1,0 +1,26 @@
+
+{
+  "products": 
+[
+{"id":1,"name":"Lorikeet, scaly-breasted","category":"Fuscia"},
+{"id":2,"name":"Sockeye salmon","category":"Purple"},
+{"id":3,"name":"Dragon, komodo","category":"Violet"},
+{"id":4,"name":"Brown antechinus","category":"Khaki"},
+{"id":5,"name":"Red-necked wallaby","category":"Maroon"},
+{"id":6,"name":"Sambar","category":"Violet"},
+{"id":7,"name":"Common brushtail possum","category":"Crimson"},
+{"id":8,"name":"Swallow-tail gull","category":"Teal"},
+{"id":9,"name":"Dragon, asian water","category":"Goldenrod"},
+{"id":10,"name":"American alligator","category":"Green"},
+{"id":11,"name":"Thirteen-lined squirrel","category":"Goldenrod"},
+{"id":12,"name":"Cat, cape wild","category":"Goldenrod"},
+{"id":13,"name":"Bird, pied butcher","category":"Puce"},
+{"id":14,"name":"Legaan, water","category":"Orange"},
+{"id":15,"name":"Cat, native","category":"Khaki"},
+{"id":16,"name":"Seven-banded armadillo","category":"Teal"},
+{"id":17,"name":"Booby, masked","category":"Khaki"},
+{"id":18,"name":"Harbor seal","category":"Goldenrod"},
+{"id":19,"name":"Sparrow, house","category":"Aquamarine"},
+{"id":20,"name":"Short-nosed bandicoot","category":"Mauv"}
+]
+}
